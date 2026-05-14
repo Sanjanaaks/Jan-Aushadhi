@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_item_medicine.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/item_medicine.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_activity_main.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_activity_login.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_dialog_edit_profile.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/dialog_edit_profile.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/drawable_ic_person.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_activity_splash.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/drawable_ic_logout.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/drawable_ic_logo.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/drawable_ic_search.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/navigation_nav_graph.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_fragment_profile.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/drawable_ic_alarm.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/drawable/ic_alarm.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_activity_register.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/drawable_bg_circle_green.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/drawable/bg_circle_green.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/menu_toolbar_menu.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/menu/toolbar_menu.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/drawable_ic_back.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_fragment_reminder.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/fragment_reminder.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_item_reminder.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/item_reminder.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_fragment_map.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/drawable_ic_medicine.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/drawable/ic_medicine.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/drawable_ic_location.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_bottom_sheet_add_reminder.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/bottom_sheet_add_reminder.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/drawable_ic_notification.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.janaushadhi.finder.app-debug-69:/layout_fragment_search.xml.flat",
+        "source": "com.janaushadhi.finder.app-main-71:/layout/fragment_search.xml"
+    }
+]

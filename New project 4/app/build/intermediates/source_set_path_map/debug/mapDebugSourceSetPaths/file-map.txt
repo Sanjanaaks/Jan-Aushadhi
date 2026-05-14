@@ -1,0 +1,72 @@
+com.janaushadhi.finder.app-jetified-play-services-basement-18.3.0-0 C:\Users\VIKAS\.gradle\caches\transforms-4\01defd0e24e6f9ef7091c56b4c97675e\transformed\jetified-play-services-basement-18.3.0\res
+com.janaushadhi.finder.app-core-runtime-2.2.0-1 C:\Users\VIKAS\.gradle\caches\transforms-4\04ec113e25e532aa027b693619cac89d\transformed\core-runtime-2.2.0\res
+com.janaushadhi.finder.app-cardview-1.0.0-2 C:\Users\VIKAS\.gradle\caches\transforms-4\0809a5e0caa9b8357baa90fdc72de402\transformed\cardview-1.0.0\res
+com.janaushadhi.finder.app-recyclerview-1.3.2-3 C:\Users\VIKAS\.gradle\caches\transforms-4\0de6138cc4293fd7ba9cb1448ad9ef8c\transformed\recyclerview-1.3.2\res
+com.janaushadhi.finder.app-navigation-fragment-ktx-2.7.7-4 C:\Users\VIKAS\.gradle\caches\transforms-4\146c2feb82d6261868a7c10af1750c13\transformed\navigation-fragment-ktx-2.7.7\res
+com.janaushadhi.finder.app-jetified-fragment-ktx-1.7.1-5 C:\Users\VIKAS\.gradle\caches\transforms-4\19e77818347ad20d03ebae0030098ba3\transformed\jetified-fragment-ktx-1.7.1\res
+com.janaushadhi.finder.app-jetified-play-services-base-18.3.0-6 C:\Users\VIKAS\.gradle\caches\transforms-4\1eaa5a01ce8ec0f99f277fb2f1d5c07d\transformed\jetified-play-services-base-18.3.0\res
+com.janaushadhi.finder.app-navigation-runtime-2.7.7-7 C:\Users\VIKAS\.gradle\caches\transforms-4\25f68e8bfcc49de34e9bbae71ab26445\transformed\navigation-runtime-2.7.7\res
+com.janaushadhi.finder.app-jetified-lifecycle-viewmodel-savedstate-2.8.0-8 C:\Users\VIKAS\.gradle\caches\transforms-4\2763ee77ccf6b10abb500c8ce17068b1\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.0\res
+com.janaushadhi.finder.app-navigation-ui-ktx-2.7.7-9 C:\Users\VIKAS\.gradle\caches\transforms-4\2ba9c35537d0380b81ef62fa88a29da3\transformed\navigation-ui-ktx-2.7.7\res
+com.janaushadhi.finder.app-jetified-activity-ktx-1.9.0-10 C:\Users\VIKAS\.gradle\caches\transforms-4\2da16b93662fb38d35d288ec75f752eb\transformed\jetified-activity-ktx-1.9.0\res
+com.janaushadhi.finder.app-jetified-core-ktx-1.13.1-11 C:\Users\VIKAS\.gradle\caches\transforms-4\2f6b99bc92c1ba871cb88fb91efb07a6\transformed\jetified-core-ktx-1.13.1\res
+com.janaushadhi.finder.app-jetified-play-services-maps-18.2.0-12 C:\Users\VIKAS\.gradle\caches\transforms-4\3234cb8e8f277cb18d2b5c058b6ec44f\transformed\jetified-play-services-maps-18.2.0\res
+com.janaushadhi.finder.app-jetified-firebase-common-21.0.0-13 C:\Users\VIKAS\.gradle\caches\transforms-4\39207ae06b6d04f889162ba0da12214f\transformed\jetified-firebase-common-21.0.0\res
+com.janaushadhi.finder.app-jetified-room-ktx-2.5.0-14 C:\Users\VIKAS\.gradle\caches\transforms-4\3ec16dc03bceea1b0153883f54489851\transformed\jetified-room-ktx-2.5.0\res
+com.janaushadhi.finder.app-jetified-ads-adservices-java-1.0.0-beta05-15 C:\Users\VIKAS\.gradle\caches\transforms-4\40cb30741116353cde883395abd8550d\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.janaushadhi.finder.app-jetified-credentials-play-services-auth-1.2.0-rc01-16 C:\Users\VIKAS\.gradle\caches\transforms-4\44ed856f08ab9d351b45f11e52592cc0\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.janaushadhi.finder.app-coordinatorlayout-1.1.0-17 C:\Users\VIKAS\.gradle\caches\transforms-4\4fc8bfd04cd05d3304072da33f83b1c5\transformed\coordinatorlayout-1.1.0\res
+com.janaushadhi.finder.app-transition-1.5.0-18 C:\Users\VIKAS\.gradle\caches\transforms-4\575061280a0c2581be648ff8b19f9ffc\transformed\transition-1.5.0\res
+com.janaushadhi.finder.app-jetified-startup-runtime-1.1.1-19 C:\Users\VIKAS\.gradle\caches\transforms-4\59b5f8437e3047fea5c06aa9bb94541f\transformed\jetified-startup-runtime-1.1.1\res
+com.janaushadhi.finder.app-sqlite-framework-2.3.0-20 C:\Users\VIKAS\.gradle\caches\transforms-4\609cead29a0441f3fde8725bced1897e\transformed\sqlite-framework-2.3.0\res
+com.janaushadhi.finder.app-drawerlayout-1.1.1-21 C:\Users\VIKAS\.gradle\caches\transforms-4\64b113a9bb2c77991464db6c377b5b47\transformed\drawerlayout-1.1.1\res
+com.janaushadhi.finder.app-jetified-lifecycle-runtime-release-22 C:\Users\VIKAS\.gradle\caches\transforms-4\6562fffdcdbb8a557a42b60d33dd6f61\transformed\jetified-lifecycle-runtime-release\res
+com.janaushadhi.finder.app-jetified-viewpager2-1.1.0-beta02-23 C:\Users\VIKAS\.gradle\caches\transforms-4\657471a2e22e3a30d7fbd2c9ac3ee23b\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.janaushadhi.finder.app-jetified-emoji2-1.3.0-24 C:\Users\VIKAS\.gradle\caches\transforms-4\6fc7e52ced1388b0059974af628c0a3e\transformed\jetified-emoji2-1.3.0\res
+com.janaushadhi.finder.app-room-runtime-2.5.0-25 C:\Users\VIKAS\.gradle\caches\transforms-4\7221aa86b6492bb170581ff73658f2cf\transformed\room-runtime-2.5.0\res
+com.janaushadhi.finder.app-navigation-fragment-2.7.7-26 C:\Users\VIKAS\.gradle\caches\transforms-4\72de2c98707f7d73f6822d6ced80c179\transformed\navigation-fragment-2.7.7\res
+com.janaushadhi.finder.app-jetified-activity-1.9.0-27 C:\Users\VIKAS\.gradle\caches\transforms-4\76038f6ff48239d37bbcff57a4b72968\transformed\jetified-activity-1.9.0\res
+com.janaushadhi.finder.app-work-runtime-2.9.0-28 C:\Users\VIKAS\.gradle\caches\transforms-4\7d326b94635299f580df4e9d05a4879a\transformed\work-runtime-2.9.0\res
+com.janaushadhi.finder.app-constraintlayout-2.0.1-29 C:\Users\VIKAS\.gradle\caches\transforms-4\81303ded2a3f51573a9c98530d53d8ee\transformed\constraintlayout-2.0.1\res
+com.janaushadhi.finder.app-jetified-lifecycle-livedata-core-ktx-2.8.0-30 C:\Users\VIKAS\.gradle\caches\transforms-4\83472c2638cf65c0e6bd7a94a7cdf45f\transformed\jetified-lifecycle-livedata-core-ktx-2.8.0\res
+com.janaushadhi.finder.app-lifecycle-livedata-2.8.0-31 C:\Users\VIKAS\.gradle\caches\transforms-4\88ade33ef9850158e2c6a521a33a00b1\transformed\lifecycle-livedata-2.8.0\res
+com.janaushadhi.finder.app-material-1.12.0-32 C:\Users\VIKAS\.gradle\caches\transforms-4\8aa21d13da7f23a7a4c5e31ff10cf15e\transformed\material-1.12.0\res
+com.janaushadhi.finder.app-lifecycle-livedata-core-2.8.0-33 C:\Users\VIKAS\.gradle\caches\transforms-4\8e4c448f63b8873c9bbab0cbec009d73\transformed\lifecycle-livedata-core-2.8.0\res
+com.janaushadhi.finder.app-jetified-profileinstaller-1.3.1-34 C:\Users\VIKAS\.gradle\caches\transforms-4\923cf7313b3411fb4b377f727e9bdf57\transformed\jetified-profileinstaller-1.3.1\res
+com.janaushadhi.finder.app-jetified-play-services-measurement-api-22.0.0-35 C:\Users\VIKAS\.gradle\caches\transforms-4\9d8c54a3d8490fc4dc5c0c232dc13b47\transformed\jetified-play-services-measurement-api-22.0.0\res
+com.janaushadhi.finder.app-jetified-annotation-experimental-1.4.0-36 C:\Users\VIKAS\.gradle\caches\transforms-4\a0900a3aee46b5faf00435c6c48908b9\transformed\jetified-annotation-experimental-1.4.0\res
+com.janaushadhi.finder.app-navigation-common-2.7.7-37 C:\Users\VIKAS\.gradle\caches\transforms-4\a368956ae663040aa1d34f0f777335b1\transformed\navigation-common-2.7.7\res
+com.janaushadhi.finder.app-jetified-lifecycle-viewmodel-release-38 C:\Users\VIKAS\.gradle\caches\transforms-4\a8a9f430532d860fdc1cbdd3e126626f\transformed\jetified-lifecycle-viewmodel-release\res
+com.janaushadhi.finder.app-navigation-ui-2.7.7-39 C:\Users\VIKAS\.gradle\caches\transforms-4\aa311a5f45f7cc7fa750e143cbc92491\transformed\navigation-ui-2.7.7\res
+com.janaushadhi.finder.app-jetified-lottie-6.4.0-40 C:\Users\VIKAS\.gradle\caches\transforms-4\b167f4da290fe86041fbdb906fa47fb1\transformed\jetified-lottie-6.4.0\res
+com.janaushadhi.finder.app-jetified-customview-poolingcontainer-1.0.0-41 C:\Users\VIKAS\.gradle\caches\transforms-4\b4e01502adbb83b41d0e76ac2c278d3f\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.janaushadhi.finder.app-jetified-emoji2-views-helper-1.3.0-42 C:\Users\VIKAS\.gradle\caches\transforms-4\b6971b3991442ba147060f239a1a7625\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.janaushadhi.finder.app-fragment-1.7.1-43 C:\Users\VIKAS\.gradle\caches\transforms-4\ba285452895c9ad787a9fcbedf84143a\transformed\fragment-1.7.1\res
+com.janaushadhi.finder.app-jetified-window-1.0.0-44 C:\Users\VIKAS\.gradle\caches\transforms-4\ba34720538bd4529dfc78d2098440413\transformed\jetified-window-1.0.0\res
+com.janaushadhi.finder.app-jetified-lifecycle-runtime-ktx-release-45 C:\Users\VIKAS\.gradle\caches\transforms-4\bf9b7e308e1b49a777788fbd38532ecd\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.janaushadhi.finder.app-browser-1.4.0-46 C:\Users\VIKAS\.gradle\caches\transforms-4\ccfc8d74e2ba8b5530777c49537412a7\transformed\browser-1.4.0\res
+com.janaushadhi.finder.app-work-runtime-ktx-2.9.0-47 C:\Users\VIKAS\.gradle\caches\transforms-4\cdf7d2794eb8fbb777c5e7c61553a479\transformed\work-runtime-ktx-2.9.0\res
+com.janaushadhi.finder.app-jetified-savedstate-ktx-1.2.1-48 C:\Users\VIKAS\.gradle\caches\transforms-4\ce7a8dbfc305b7c7f852d9a5c3b4291f\transformed\jetified-savedstate-ktx-1.2.1\res
+com.janaushadhi.finder.app-sqlite-2.3.0-49 C:\Users\VIKAS\.gradle\caches\transforms-4\d86b98a93efb889b39217906e9a42555\transformed\sqlite-2.3.0\res
+com.janaushadhi.finder.app-navigation-runtime-ktx-2.7.7-50 C:\Users\VIKAS\.gradle\caches\transforms-4\e19796faa09f90659de374666d4b428c\transformed\navigation-runtime-ktx-2.7.7\res
+com.janaushadhi.finder.app-jetified-lifecycle-process-2.8.0-51 C:\Users\VIKAS\.gradle\caches\transforms-4\e260c51376d7a9bd852da12b2d39e625\transformed\jetified-lifecycle-process-2.8.0\res
+com.janaushadhi.finder.app-core-1.13.1-52 C:\Users\VIKAS\.gradle\caches\transforms-4\e3b7dac0eed4bc1ffea5adadcc3b8dde\transformed\core-1.13.1\res
+com.janaushadhi.finder.app-navigation-common-ktx-2.7.7-53 C:\Users\VIKAS\.gradle\caches\transforms-4\e6835116aff478719701bf1d2dd2f47f\transformed\navigation-common-ktx-2.7.7\res
+com.janaushadhi.finder.app-slidingpanelayout-1.2.0-54 C:\Users\VIKAS\.gradle\caches\transforms-4\f00be843227b4fa803748099b38d7f4f\transformed\slidingpanelayout-1.2.0\res
+com.janaushadhi.finder.app-jetified-lifecycle-viewmodel-ktx-2.8.0-55 C:\Users\VIKAS\.gradle\caches\transforms-4\f0743966bd8919a1ff2f79f6a7c68732\transformed\jetified-lifecycle-viewmodel-ktx-2.8.0\res
+com.janaushadhi.finder.app-jetified-savedstate-1.2.1-56 C:\Users\VIKAS\.gradle\caches\transforms-4\f221e546137f9a13169b08a67952f4f4\transformed\jetified-savedstate-1.2.1\res
+com.janaushadhi.finder.app-jetified-ads-adservices-1.0.0-beta05-57 C:\Users\VIKAS\.gradle\caches\transforms-4\f398fa48924ff7e4082cb5913231eb7c\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.janaushadhi.finder.app-jetified-lifecycle-service-2.8.0-58 C:\Users\VIKAS\.gradle\caches\transforms-4\f4e5ec0182820c4f01c3b0370a4b242c\transformed\jetified-lifecycle-service-2.8.0\res
+com.janaushadhi.finder.app-jetified-lifecycle-livedata-ktx-2.8.0-59 C:\Users\VIKAS\.gradle\caches\transforms-4\f5f0d2a7f94b08cfcf3ac9ad1ec4cfa5\transformed\jetified-lifecycle-livedata-ktx-2.8.0\res
+com.janaushadhi.finder.app-jetified-play-services-auth-20.7.0-60 C:\Users\VIKAS\.gradle\caches\transforms-4\f6e4b3387b75447a9cd893b514e0ff6d\transformed\jetified-play-services-auth-20.7.0\res
+com.janaushadhi.finder.app-appcompat-1.7.0-61 C:\Users\VIKAS\.gradle\caches\transforms-4\f82049a7234778e20e9e864a61ca4436\transformed\appcompat-1.7.0\res
+com.janaushadhi.finder.app-jetified-credentials-1.2.0-rc01-62 C:\Users\VIKAS\.gradle\caches\transforms-4\f8c4e74153b46446003e34e200a3c351\transformed\jetified-credentials-1.2.0-rc01\res
+com.janaushadhi.finder.app-jetified-appcompat-resources-1.7.0-63 C:\Users\VIKAS\.gradle\caches\transforms-4\ff292312870309d9a3e57ae8ae3db6b8\transformed\jetified-appcompat-resources-1.7.0\res
+com.janaushadhi.finder.app-pngs-64 C:\Users\VIKAS\Downloads\Jan-Aushadhi Finder\New project 4\app\build\generated\res\pngs\debug
+com.janaushadhi.finder.app-res-65 C:\Users\VIKAS\Downloads\Jan-Aushadhi Finder\New project 4\app\build\generated\res\processDebugGoogleServices
+com.janaushadhi.finder.app-resValues-66 C:\Users\VIKAS\Downloads\Jan-Aushadhi Finder\New project 4\app\build\generated\res\resValues\debug
+com.janaushadhi.finder.app-packageDebugResources-67 C:\Users\VIKAS\Downloads\Jan-Aushadhi Finder\New project 4\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.janaushadhi.finder.app-packageDebugResources-68 C:\Users\VIKAS\Downloads\Jan-Aushadhi Finder\New project 4\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.janaushadhi.finder.app-debug-69 C:\Users\VIKAS\Downloads\Jan-Aushadhi Finder\New project 4\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.janaushadhi.finder.app-debug-70 C:\Users\VIKAS\Downloads\Jan-Aushadhi Finder\New project 4\app\src\debug\res
+com.janaushadhi.finder.app-main-71 C:\Users\VIKAS\Downloads\Jan-Aushadhi Finder\New project 4\app\src\main\res

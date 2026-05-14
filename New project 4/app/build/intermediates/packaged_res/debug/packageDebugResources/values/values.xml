@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_orange">#FF6F00</color>
+    <color name="background_white">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="error_red">#D32F2F</color>
+    <color name="primary_green">#2E7D32</color>
+    <color name="primary_green_dark">#1B5E20</color>
+    <color name="primary_green_light">#A5D6A7</color>
+    <color name="savings_green">#388E3C</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <string name="already_login">Already have an account? Login</string>
+    <string name="app_name">Jan-Aushadhi Finder</string>
+    <string name="create_account">Create New Account</string>
+    <string name="find_medicine">Find Medicine</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="gcm_defaultSenderId" translatable="false">660457207726</string>
+    <string name="google_api_key" translatable="false">AIzaSyD_6-87gYS0QwG7Pc749T3mmeYC8twzuAc</string>
+    <string name="google_app_id" translatable="false">1:660457207726:android:881f52ea72a39fcf0eba3f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD_6-87gYS0QwG7Pc749T3mmeYC8twzuAc</string>
+    <string name="google_maps_key">AIzaSyBkRsUXGqjwCJPkoR55jyo0mDsr8xkYtuY</string>
+    <string name="google_storage_bucket" translatable="false">janaushadi-finder.firebasestorage.app</string>
+    <string name="login">LOGIN</string>
+    <string name="no_medicines">No medicines found. Try a different spelling.</string>
+    <string name="offline_mode">Offline Mode</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">janaushadi-finder</string>
+    <string name="register">REGISTER</string>
+    <string name="reminders">Reminders</string>
+    <string name="search_hint">Search by brand name (e.g., Crocin, Augmentin)</string>
+    <string name="select_refill_date">Select refill date</string>
+    <string name="stores">Stores</string>
+    <string name="tagline">Save on medicines. Live healthier.</string>
+    <style name="Theme.JanAushadhiFinder" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryDark">@color/primary_green_dark</item>
+        <item name="colorSecondary">@color/accent_orange</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/primary_green_dark</item>
+        <item name="android:navigationBarColor">@color/surface_white</item>
+        <item name="materialButtonStyle">@style/Widget.JAF.Button</item>
+        <item name="materialCardViewStyle">@style/Widget.JAF.Card</item>
+    </style>
+    <style name="Widget.JAF.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">8dp</item>
+    </style>
+    <style name="Widget.JAF.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">4dp</item>
+    </style>
+</resources>

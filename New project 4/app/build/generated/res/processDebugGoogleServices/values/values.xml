@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">660457207726</string>
+    <string name="google_api_key" translatable="false">AIzaSyD_6-87gYS0QwG7Pc749T3mmeYC8twzuAc</string>
+    <string name="google_app_id" translatable="false">1:660457207726:android:881f52ea72a39fcf0eba3f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD_6-87gYS0QwG7Pc749T3mmeYC8twzuAc</string>
+    <string name="google_storage_bucket" translatable="false">janaushadi-finder.firebasestorage.app</string>
+    <string name="project_id" translatable="false">janaushadi-finder</string>
+</resources>
